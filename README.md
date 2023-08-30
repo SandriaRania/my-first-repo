@@ -6,3 +6,4 @@ Kelas   : PBP B
 
 Hobi    : Main Game
 
+Jurusan : Ilmu Komputer
